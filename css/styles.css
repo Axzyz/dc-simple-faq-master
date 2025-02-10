@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-family: "Inter", serif;
+  font-size: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 2rem;
+  color: rgb(55, 65, 81);
+}
+
+/* Solucion */
+a {
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 6rem;
+}
+
+.subtitle {
+    margin-top: 1rem;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 2.25rem;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.container {
+    max-width: 640px;
+    padding: 3rem;
+}
+
+ul, ol {
+    padding: 1.7rem;
+}
+
+hr {
+    margin: 2rem 0;
+    border: 1px solid #D2D5DA;
+}
+
+li {
+    margin: 1rem 0;
+}
